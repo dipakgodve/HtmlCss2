@@ -1,0 +1,83 @@
+.a{
+    background-color: blue;
+    text-decoration-line: underline solid red;
+    color: aliceblue;
+}
+.Z{
+    width: 500px;
+    height: 500px;
+    background-color: yellow;
+    position: absolute;
+    left: 200px;
+    top: 150px;
+    z-index:3 ;
+ 
+
+}
+.Y{
+ background-color: brown;
+ z-index: 2;
+ margin-top: 20px;
+ position: absolute;
+ height: 30px;
+ width: 500px;
+ left: 200px;
+ top: 100px;
+ border-top-left-radius: 15px;
+ border-top-right-radius: 15px ;
+}
+.X{
+background-color: brown;
+ z-index: 2;
+ margin-top: 20px;
+ position: absolute;
+ height: 30px;
+ width: 500px;
+ left: 200px;
+bottom:34px ;
+ border-bottom-left-radius: 15px;
+ border-bottom-right-radius: 15px ;
+ z-index: 2;
+}
+.one{
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 15px;
+   
+
+}
+.two{
+    height: 150px;
+    width: 150px;
+}
+.three{
+    height: 150px;
+    width: 150px;
+    margin-left:15px;
+    
+}
+.fore{
+    height: 150px;
+    width: 150px;
+    
+    
+}
+.five{
+    height: 150px;
+    width: 150px;
+    margin-left:15px;
+
+}
+.six{
+    height: 150px;
+    width: 150px;
+    
+
+}
+.sevan{
+height: 458px;
+width: 160px;
+margin-top: -500px;
+margin-left: 5px;
+}
